@@ -30,7 +30,7 @@ deloitte.png,Deloitte,wall,skoda-proposal-v2-2026-08,
 deutsche-bank.png,Deutsche Bank,wall,skoda-proposal-v2-2026-08,
 dhl.png,DHL,wall,skoda-proposal-v2-2026-08,DHL Express
 european-central-bank.png,European Central Bank,wall,skoda-proposal-v2-2026-08,
-emirates.png,Emirates,wall,skoda-proposal-v2-2026-08,
+emirates.png,Emirates,wall,skoda-proposal-v2-2026-08,Emirates Airline
 esso.png,Esso,wall,skoda-proposal-v2-2026-08,
 estee-lauder.png,Estee Lauder,wall,skoda-proposal-v2-2026-08,
 european-central-bank-eurosystem.png,European Central Bank Eurosystem,wall,skoda-proposal-v2-2026-08,
@@ -106,7 +106,7 @@ government-of-singapore.png,Government of Singapore,government,sector-expansion-
 royal-hashemite-court.png,The Royal Hashemite Court,government,sector-expansion-2026-08,Jordan Royal Hashemite Court
 international-cricket-council.png,International Cricket Council,government,sector-expansion-2026-08,
 adnoc.png,ADNOC,energy,sector-expansion-2026-08,ADGAS; ADMA OPCO
-totalenergies.png,TotalEnergies,energy,sector-expansion-2026-08,
+totalenergies.png,TotalEnergies,energy,sector-expansion-2026-08,Total E&P Nigeria
 engie.png,Engie,energy,sector-expansion-2026-08,
 petronas.png,Petronas,energy,sector-expansion-2026-08,
 oq.png,OQ,energy,sector-expansion-2026-08,
@@ -188,7 +188,7 @@ nakheel.png,Nakheel,construction,keo-proposal-2026-08,
 damac.png,DAMAC,construction,keo-proposal-2026-08,
 qatari-diar.png,Qatari Diar,construction,keo-proposal-2026-08,
 miral.png,Miral,construction,keo-proposal-2026-08,
-majid-al-futtaim.png,Majid Al Futtaim Properties,construction,keo-proposal-2026-08,Majid Al Futtaim Ventures
+majid-al-futtaim.png,Majid Al Futtaim,construction,keo-proposal-2026-08,Majid Al Futtaim Ventures; Majid Al Futtaim Properties
 afcons.png,Afcons,construction,keo-proposal-2026-08,
 emaar-hospitality.png,Emaar Hospitality,construction,keo-proposal-2026-08,
 costain.png,Costain,construction,keo-proposal-2026-08,
@@ -616,3 +616,5 @@ alwaleed-philanthropies.png,Alwaleed Philanthropies,,logo-build-2026-09,Alwaleed
 bank-of-industry-nigeria.png,Bank of Industry,finance,logo-build-2026-09,Bank of Industry Nigeria
 university-college-of-bahrain.png,University College of Bahrain,,logo-build-2026-09,
 taraba-state-university.png,Taraba State University,,logo-build-2026-09,
+siemens-gamesa.png,Siemens Gamesa,energy,logo-audit-2026-09,Siemens Wind Power
+mclaren-construction.png,McLaren Construction,construction,logo-audit-2026-09,
