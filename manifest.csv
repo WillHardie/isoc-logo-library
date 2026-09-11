@@ -14,7 +14,7 @@ barclays.png,Barclays,wall,skoda-proposal-v2-2026-08,
 basf.png,BASF,wall,skoda-proposal-v2-2026-08,
 bayer.png,Bayer,wall,skoda-proposal-v2-2026-08,
 bosch.png,Bosch,wall,skoda-proposal-v2-2026-08,
-bp.png,BP,wall,skoda-proposal-v2-2026-08,
+bp.png,BP,wall,skoda-proposal-v2-2026-08,BP Angola; BP Oman
 british-airways.png,British Airways,wall,skoda-proposal-v2-2026-08,
 british-council.png,British Council,wall,skoda-proposal-v2-2026-08,
 bt.png,BT,wall,skoda-proposal-v2-2026-08,BT Centre
@@ -57,7 +57,7 @@ microsoft.png,Microsoft,wall,skoda-proposal-v2-2026-08,
 mitsubishi.png,Mitsubishi,wall,skoda-proposal-v2-2026-08,
 nato.png,NATO,wall,skoda-proposal-v2-2026-08,North Atlantic Treaty Organisation
 nestle.png,Nestle,wall,skoda-proposal-v2-2026-08,
-opec.png,OPEC,wall,skoda-proposal-v2-2026-08,OFID; OPEC Fund for International Development; Organization of the Petroleum Exporting Countries (OPEC); Organization of the Oil Producing and Exporting Countries (OPEC)
+opec.png,OPEC,wall,skoda-proposal-v2-2026-08,Organization of the Petroleum Exporting Countries (OPEC); Organization of the Oil Producing and Exporting Countries (OPEC)
 oxfam.png,Oxfam,wall,skoda-proposal-v2-2026-08,
 pepsico.png,PepsiCo,wall,skoda-proposal-v2-2026-08,
 pfizer.png,Pfizer,wall,skoda-proposal-v2-2026-08,
@@ -161,12 +161,12 @@ ucb.png,UCB,healthcare,sector-expansion-2026-08-14,UCB Pharma
 octapharma.png,Octapharma,healthcare,sector-expansion-2026-08-14,
 cleveland-clinic-abu-dhabi.png,Cleveland Clinic Abu Dhabi,healthcare,sector-expansion-2026-08-14,
 asyad.png,Asyad Group,aviation,sector-expansion-2026-08-14,Oman Global Logistics Group; Oman Shipping Company
-oldendorff.png,Oldendorff Carriers,aviation,sector-expansion-2026-08-14,
+oldendorff.png,Oldendorff Carriers,aviation,sector-expansion-2026-08-14,Egon Oldendorff Management
 malta-airport.png,Malta International Airport,aviation,sector-expansion-2026-08-14,
 iata.png,IATA,aviation,sector-expansion-2026-08-14,International Air Transport Association
 transport-for-london.png,Transport for London,aviation,sector-expansion-2026-08-14,
 eurostar.png,Eurostar,aviation,sector-expansion-2026-08-14,
-saudi-railway.png,Saudi Arabia Railways,aviation,sector-expansion-2026-08-14,
+saudi-railway.png,Saudi Arabia Railways,aviation,sector-expansion-2026-08-14,Saudi Railway Company (SAR)
 masdar.png,Masdar,energy,gwec-proposal-2026-08,
 clean-energy-finance-corporation.png,Clean Energy Finance Corporation,energy,gwec-proposal-2026-08,
 350org.png,350.org,advocacy,gwec-proposal-2026-08,
@@ -286,7 +286,7 @@ mammoet.png,Mammoet,,logo-build-2026-09,
 europol.png,Europol,,logo-build-2026-09,
 unfpa.png,UNFPA,,logo-build-2026-09,United Nations Population Fund
 university-of-dubai.png,University of Dubai,,logo-build-2026-09,
-bank-indonesia.png,Bank Indonesia,finance,logo-build-2026-09,Bank of Indonesia Bengkulu
+bank-indonesia.png,Bank Indonesia,finance,logo-build-2026-09,Bank of Indonesia Bengkulu; Central Bank of Indonesia
 engro.png,Engro,,logo-build-2026-09,
 mtv.png,MTV,,logo-build-2026-09,MTV Networks MENA
 hachette-uk.png,Hachette UK,,logo-build-2026-09,
@@ -482,7 +482,7 @@ bank-of-tanzania.png,Bank of Tanzania,finance,logo-build-2026-09,
 bank-of-mozambique.png,Bank of Mozambique,finance,logo-build-2026-09,
 rcaa.png,Rwanda Civil Aviation Authority,government,logo-build-2026-09,
 nahdi.png,Nahdi,healthcare,logo-build-2026-09,
-ofid.png,OPEC Fund for International Development,finance,logo-build-2026-09,
+ofid.png,OPEC Fund for International Development,finance,logo-build-2026-09,OFID
 edctp.png,EDCTP,healthcare,logo-build-2026-09,European and Developing Countries Clinical Trials Partnership (EDCTP)
 mbru.png,Mohammed Bin Rashid University of Medicine and Health Sciences,healthcare,logo-build-2026-09,
 elf.png,European Lung Foundation,healthcare,logo-build-2026-09,
@@ -574,7 +574,6 @@ weatherford.png,Weatherford,energy,logo-build-2026-09,Weatherford Oil Tool Middl
 lundbeck.png,Lundbeck,healthcare,logo-build-2026-09,Lundbeck Export AS
 grunenthal.png,Grünenthal,healthcare,logo-build-2026-09,Grunenthal
 stada.png,STADA,healthcare,logo-build-2026-09,Hemofarm A.D.
-oldendorff-carriers.png,Oldendorff Carriers,,logo-build-2026-09,Egon Oldendorff Management
 messe-frankfurt.png,Messe Frankfurt,,logo-build-2026-09,Epoc Messe Frankfurt
 anglo-american.png,Anglo American,,logo-build-2026-09,Anglo Operations (PTY)
 aci.png,Airports Council International,aviation,logo-build-2026-09,Airports Council International Europe
@@ -594,7 +593,6 @@ emerson.png,Emerson,technology,logo-build-2026-09,
 norwegian-church-aid.png,Norwegian Church Aid,,logo-build-2026-09,Norwegian Church Aid (NCA)
 ifaw.png,IFAW,,logo-build-2026-09,International Fund for Animal Welfare
 bank-of-beirut.png,Bank of Beirut,finance,logo-build-2026-09,
-saudi-arabia-railways.png,Saudi Arabia Railways,,logo-build-2026-09,Saudi Railway Company (SAR)
 dafz.png,Dubai Airport Freezone,,logo-build-2026-09,Dubai Airport Freezone (DAFZ)
 fraport.png,Fraport,aviation,logo-build-2026-09,Fraport Regional Airport of Greece
 viatris.png,Viatris,healthcare,logo-build-2026-09,
