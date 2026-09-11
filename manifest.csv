@@ -1,541 +1,543 @@
-file,display_name,tags,source
-accenture.png,Accenture,wall,skoda-proposal-v2-2026-08
-adidas.png,Adidas,wall,skoda-proposal-v2-2026-08
-aig.png,AIG,wall,skoda-proposal-v2-2026-08
-airbnb.png,Airbnb,wall,skoda-proposal-v2-2026-08
-airbus.png,Airbus,wall,skoda-proposal-v2-2026-08
-alstom.png,Alstom,wall,skoda-proposal-v2-2026-08
-apple.png,Apple,wall,skoda-proposal-v2-2026-08
-asian-development-bank.png,Asian Development Bank,wall,skoda-proposal-v2-2026-08
-audi.png,Audi,wall,skoda-proposal-v2-2026-08
-akzonobel.png,AkzoNobel,wall,skoda-proposal-v2-2026-08
-bae-systems.png,BAE Systems,wall,skoda-proposal-v2-2026-08
-barclays.png,Barclays,wall,skoda-proposal-v2-2026-08
-basf.png,BASF,wall,skoda-proposal-v2-2026-08
-bayer.png,Bayer,wall,skoda-proposal-v2-2026-08
-bosch.png,Bosch,wall,skoda-proposal-v2-2026-08
-bp.png,BP,wall,skoda-proposal-v2-2026-08
-british-airways.png,British Airways,wall,skoda-proposal-v2-2026-08
-british-council.png,British Council,wall,skoda-proposal-v2-2026-08
-bt.png,BT,wall,skoda-proposal-v2-2026-08
-cable-and-wireless.png,Cable and Wireless,wall,skoda-proposal-v2-2026-08
-caterpillar.png,Caterpillar,wall,skoda-proposal-v2-2026-08
-chevron.png,Chevron,wall,skoda-proposal-v2-2026-08
-cisco.png,Cisco,wall,skoda-proposal-v2-2026-08
-coca-cola.png,Coca Cola,wall,skoda-proposal-v2-2026-08
-costa.png,Costa,wall,skoda-proposal-v2-2026-08
-mercedes-benz-daimler.png,Mercedes Benz Daimler,wall,skoda-proposal-v2-2026-08
-dell.png,Dell,wall,skoda-proposal-v2-2026-08
-deloitte.png,Deloitte,wall,skoda-proposal-v2-2026-08
-deutsche-bank.png,Deutsche Bank,wall,skoda-proposal-v2-2026-08
-dhl.png,DHL,wall,skoda-proposal-v2-2026-08
-european-central-bank.png,European Central Bank,wall,skoda-proposal-v2-2026-08
-emirates.png,Emirates,wall,skoda-proposal-v2-2026-08
-esso.png,Esso,wall,skoda-proposal-v2-2026-08
-estee-lauder.png,Estee Lauder,wall,skoda-proposal-v2-2026-08
-european-central-bank-eurosystem.png,European Central Bank Eurosystem,wall,skoda-proposal-v2-2026-08
-european-commission.png,European Commission,wall,skoda-proposal-v2-2026-08
-european-parliament.png,European Parliament,wall,skoda-proposal-v2-2026-08
-fedex.png,Fedex,wall,skoda-proposal-v2-2026-08
-ferrari.png,Ferrari,wall,skoda-proposal-v2-2026-08
-fifa.png,FIFA,wall,skoda-proposal-v2-2026-08
-general-motors.png,General Motors,wall,skoda-proposal-v2-2026-08
-google.png,Google,wall,skoda-proposal-v2-2026-08
-gsk.png,GSK,wall,skoda-proposal-v2-2026-08
-heineken.png,Heineken,wall,skoda-proposal-v2-2026-08
-hilton.png,Hilton,wall,skoda-proposal-v2-2026-08
-hsbc.png,HSBC,wall,skoda-proposal-v2-2026-08
-ikea.png,IKEA,wall,skoda-proposal-v2-2026-08
-insead.png,INSEAD,wall,skoda-proposal-v2-2026-08
-kelloggs.png,Kelloggs,wall,skoda-proposal-v2-2026-08
-lego.png,LEGO,wall,skoda-proposal-v2-2026-08
-lufthansa.png,Lufthansa,wall,skoda-proposal-v2-2026-08
-maserati.png,Maserati,wall,skoda-proposal-v2-2026-08
-maserati-wordmark.png,Maserati Wordmark,wall,skoda-proposal-v2-2026-08
-mclaren.png,McLaren,wall,skoda-proposal-v2-2026-08
-microsoft.png,Microsoft,wall,skoda-proposal-v2-2026-08
-mitsubishi.png,Mitsubishi,wall,skoda-proposal-v2-2026-08
-nato.png,NATO,wall,skoda-proposal-v2-2026-08
-nestle.png,Nestle,wall,skoda-proposal-v2-2026-08
-opec.png,OPEC,wall,skoda-proposal-v2-2026-08
-oxfam.png,Oxfam,wall,skoda-proposal-v2-2026-08
-pepsico.png,PepsiCo,wall,skoda-proposal-v2-2026-08
-pfizer.png,Pfizer,wall,skoda-proposal-v2-2026-08
-philips.png,Philips,wall,skoda-proposal-v2-2026-08
-porsche.png,Porsche,wall,skoda-proposal-v2-2026-08
-icrc.png,ICRC,wall,skoda-proposal-v2-2026-08
-samsung.png,Samsung,wall,skoda-proposal-v2-2026-08
-sap.png,SAP,wall,skoda-proposal-v2-2026-08
-aramco.png,Aramco,wall,skoda-proposal-v2-2026-08
-shell.png,Shell,wall,skoda-proposal-v2-2026-08
-siemens.png,Siemens,wall,skoda-proposal-v2-2026-08
-sony.png,Sony,wall,skoda-proposal-v2-2026-08
-texaco.png,Texaco,wall,skoda-proposal-v2-2026-08
-world-bank.png,World Bank,wall,skoda-proposal-v2-2026-08
-thomson-reuters.png,Thomson Reuters,wall,skoda-proposal-v2-2026-08
-total.png,Total,wall,skoda-proposal-v2-2026-08
-toyota.png,Toyota,wall,skoda-proposal-v2-2026-08
-uber.png,Uber,wall,skoda-proposal-v2-2026-08
-undp.png,UNDP,wall,skoda-proposal-v2-2026-08
-unhcr.png,UNHCR,wall,skoda-proposal-v2-2026-08
-unicef.png,UNICEF,wall,skoda-proposal-v2-2026-08
-united-nations.png,United Nations,wall,skoda-proposal-v2-2026-08
-us-navy.png,US Navy,wall,skoda-proposal-v2-2026-08
-university-of-oxford.png,University of Oxford,wall,skoda-proposal-v2-2026-08
-visa.png,Visa,wall,skoda-proposal-v2-2026-08
-vodafone.png,Vodafone,wall,skoda-proposal-v2-2026-08
-volkswagen.png,Volkswagen,wall,skoda-proposal-v2-2026-08
-volvo.png,Volvo,wall,skoda-proposal-v2-2026-08
-western-union.png,Western Union,wall,skoda-proposal-v2-2026-08
-world-health-organization.png,World Health Organization,wall,skoda-proposal-v2-2026-08
-wwf.png,WWF,wall,skoda-proposal-v2-2026-08
-volkswagen-group-wordmark.png,Volkswagen Group Wordmark,automotive,logo-build-2026-09
-porsche-wordmark.png,Porsche Wordmark,automotive,logo-build-2026-09
-man.png,MAN Truck and Bus,automotive,logo-build-2026-09
-scania.png,Scania,automotive,logo-build-2026-09
-mercedes-benz-star.png,Mercedes Benz Star,automotive,logo-build-2026-09
-ferrari-wordmark.png,Ferrari Wordmark,automotive,logo-build-2026-09
-maserati-script.png,Maserati Script,automotive,logo-build-2026-09
-mclaren-wordmark.png,McLaren (wordmark),automotive,logo-build-2026-09
-general-motors-modern.png,General Motors (current mark),automotive,logo-build-2026-09
-volvo-wordmark.png,Volvo Wordmark,automotive,logo-build-2026-09
-tata.png,Tata,automotive,logo-build-2026-09
-denso.png,DENSO,automotive,logo-build-2026-09
-cnh-industrial.png,CNH Industrial,automotive,logo-build-2026-09
-government-of-singapore.png,Government of Singapore,government,sector-expansion-2026-08
-royal-hashemite-court.png,The Royal Hashemite Court,government,sector-expansion-2026-08
-international-cricket-council.png,International Cricket Council,government,sector-expansion-2026-08
-adnoc.png,ADNOC,energy,sector-expansion-2026-08
-totalenergies.png,TotalEnergies,energy,sector-expansion-2026-08
-engie.png,Engie,energy,sector-expansion-2026-08
-petronas.png,Petronas,energy,sector-expansion-2026-08
-oq.png,OQ,energy,sector-expansion-2026-08
-kuwait-petroleum-international.png,Kuwait Petroleum International,energy,sector-expansion-2026-08
-veolia.png,Veolia,energy,sector-expansion-2026-08
-tabreed.png,Tabreed,energy,sector-expansion-2026-08
-novo-nordisk.png,Novo Nordisk,healthcare,sector-expansion-2026-08
-beiersdorf.png,Beiersdorf,healthcare,sector-expansion-2026-08
-cook-medical.png,Cook Medical,healthcare,sector-expansion-2026-08
-alexion.png,Alexion,healthcare,sector-expansion-2026-08
-nice.png,NICE,healthcare,sector-expansion-2026-08
-bnp-paribas.png,BNP Paribas,finance,sector-expansion-2026-08
-bank-of-england.png,Bank of England,finance,sector-expansion-2026-08
-islamic-development-bank.png,Islamic Development Bank,finance,sector-expansion-2026-08
-public-investment-fund.png,Public Investment Fund,finance,sector-expansion-2026-08
-saudi-exchange.png,Tadawul,finance,sector-expansion-2026-08
-adib.png,Abu Dhabi Islamic Bank,finance,sector-expansion-2026-08
-bank-of-korea.png,Bank of Korea,finance,sector-expansion-2026-08
-dp-world.png,DP World,aviation,sector-expansion-2026-08
-etihad-rail.png,Etihad Rail,aviation,sector-expansion-2026-08
-network-rail.png,Network Rail,aviation,sector-expansion-2026-08
-ibm.png,IBM,technology,sector-expansion-2026-08
-ericsson.png,Ericsson,technology,sector-expansion-2026-08
-autodesk.png,Autodesk,technology,sector-expansion-2026-08
-schneider-electric.png,Schneider Electric,technology,sector-expansion-2026-08
-canon.png,Canon,technology,sector-expansion-2026-08
-kaspersky.png,Kaspersky,technology,sector-expansion-2026-08
-abu-dhabi-ports.png,Abu Dhabi Ports,aviation,sector-expansion-2026-08-14
-adq.png,ADQ,government,sector-expansion-2026-08-14
-bapco.png,Bapco Energies,energy,sector-expansion-2026-08-14
-bis.png,Bank for International Settlements,finance,sector-expansion-2026-08-14
-central-bank-of-uae.png,Central Bank of the UAE,finance,sector-expansion-2026-08-14
-council-of-europe.png,Council of Europe,government,sector-expansion-2026-08-14
-dubai-aerospace-enterprise.png,Dubai Aerospace Enterprise,aviation,sector-expansion-2026-08-14
-dubai-chamber.png,Dubai Chamber of Commerce,government,sector-expansion-2026-08-14
-dubai-media-office.png,Government of Dubai Media Office,government,sector-expansion-2026-08-14
-dwtc.png,Dubai World Trade Centre,government,sector-expansion-2026-08-14
-echr.png,European Court of Human Rights,government,sector-expansion-2026-08-14
-enec.png,ENEC,energy,sector-expansion-2026-08-14
-european-society-of-cardiology.png,European Society of Cardiology,healthcare,sector-expansion-2026-08-14
-hong-kong-police.png,Hong Kong Police Force,government,sector-expansion-2026-08-14
-khazna.png,Khazna Data Centers,technology,sector-expansion-2026-08-14
-khda.png,KHDA,government,sector-expansion-2026-08-14
-livanova.png,LivaNova,healthcare,sector-expansion-2026-08-14
-nlng.png,Nigeria LNG,energy,sector-expansion-2026-08-14
-saudi-cma.png,Saudi Capital Market Authority,finance,sector-expansion-2026-08-14
-adgm.png,Abu Dhabi Global Market,finance,sector-expansion-2026-08-14
-roche.png,Roche,healthcare,sector-expansion-2026-08-14
-novo-nordisk.png,Novo Nordisk,healthcare,sector-expansion-2026-08-14
-beiersdorf.png,Beiersdorf,healthcare,sector-expansion-2026-08-14
-alexion.png,Alexion Pharmaceuticals,healthcare,sector-expansion-2026-08-14
-west-pharmaceutical.png,West Pharmaceutical Services,healthcare,sector-expansion-2026-08-14
-mundipharma.png,Mundipharma,healthcare,sector-expansion-2026-08-14
-ucb.png,UCB,healthcare,sector-expansion-2026-08-14
-octapharma.png,Octapharma,healthcare,sector-expansion-2026-08-14
-cleveland-clinic-abu-dhabi.png,Cleveland Clinic Abu Dhabi,healthcare,sector-expansion-2026-08-14
-asyad.png,Asyad Group,aviation,sector-expansion-2026-08-14
-oldendorff.png,Oldendorff Carriers,aviation,sector-expansion-2026-08-14
-malta-airport.png,Malta International Airport,aviation,sector-expansion-2026-08-14
-iata.png,IATA,aviation,sector-expansion-2026-08-14
-transport-for-london.png,Transport for London,aviation,sector-expansion-2026-08-14
-eurostar.png,Eurostar,aviation,sector-expansion-2026-08-14
-saudi-railway.png,Saudi Arabia Railways,aviation,sector-expansion-2026-08-14
-masdar.png,Masdar,energy,gwec-proposal-2026-08
-clean-energy-finance-corporation.png,Clean Energy Finance Corporation,energy,gwec-proposal-2026-08
-350org.png,350.org,advocacy,gwec-proposal-2026-08
-green-european-foundation.png,Green European Foundation,advocacy,gwec-proposal-2026-08
-agra.png,AGRA,advocacy,gwec-proposal-2026-08
-indonesia-ministry-energy.png,Indonesia Ministry of Energy and Mineral Resources,government,gwec-proposal-2026-08
-thailand-ministry-energy.png,Thailand Ministry of Energy,government,gwec-proposal-2026-08
-tanzania-coat-of-arms.png,Tanzania Ministry of Energy and Minerals,government,gwec-proposal-2026-08
-bulgaria-coat-of-arms.png,Bulgaria Ministry of Environment and Water,government,gwec-proposal-2026-08
-sri-lanka-emblem.png,Public Utilities Commission of Sri Lanka,government,gwec-proposal-2026-08
-dubai-foundation-women-children.png,Dubai Foundation for Women and Children,women,gwec-proposal-2026-08
-mcdermott.png,McDermott,construction,keo-proposal-2026-08
-aecom.png,AECOM,construction,keo-proposal-2026-08
-laing-orourke.png,Laing O'Rourke,construction,keo-proposal-2026-08
-wsp.png,WSP,construction,keo-proposal-2026-08
-skanska.png,Skanska,construction,keo-proposal-2026-08
-ramboll.png,Ramboll,construction,keo-proposal-2026-08
-nakheel.png,Nakheel,construction,keo-proposal-2026-08
-damac.png,DAMAC,construction,keo-proposal-2026-08
-qatari-diar.png,Qatari Diar,construction,keo-proposal-2026-08
-miral.png,Miral,construction,keo-proposal-2026-08
-majid-al-futtaim.png,Majid Al Futtaim Properties,construction,keo-proposal-2026-08
-afcons.png,Afcons,construction,keo-proposal-2026-08
-emaar-hospitality.png,Emaar Hospitality,construction,keo-proposal-2026-08
-costain.png,Costain,construction,keo-proposal-2026-08
-jti.png,JTI,,logo-build-2026-09
-saudi-central-bank.png,Saudi Central Bank,finance,logo-build-2026-09
-riyad-bank.png,Riyad Bank,finance,logo-build-2026-09
-aggreko.png,Aggreko,energy,logo-build-2026-09
-veeam.png,Veeam,technology,logo-build-2026-09
-axa.png,AXA,finance,logo-build-2026-09
-saudi-investment-bank.png,Saudi Investment Bank,finance,logo-build-2026-09
-morrisons.png,Morrisons,,logo-build-2026-09
-knpc.png,Kuwait National Petroleum Company,energy,logo-build-2026-09
-intuit.png,Intuit,technology,logo-build-2026-09
-gulf-international-bank.png,Gulf International Bank,finance,logo-build-2026-09
-sami.png,Saudi Arabian Military Industries,,logo-build-2026-09
-nnpc.png,NNPC,energy,logo-build-2026-09
-saudi-ministry-of-human-resources.png,Saudi Ministry of Human Resources and Social Development,government,logo-build-2026-09
-saudi-national-cybersecurity-authority.png,Saudi National Cybersecurity Authority,government,logo-build-2026-09
-environment-agency-abu-dhabi.png,Environment Agency Abu Dhabi,government,logo-build-2026-09
-control-risks.png,Control Risks,,logo-build-2026-09
-libya-africa-investment-portfolio.png,Libya Africa Investment Portfolio,finance,logo-build-2026-09
-abu-dhabi-dmt.png,Abu Dhabi Department of Municipalities and Transport,government,logo-build-2026-09
-abu-dhabi-crown-prince-court.png,Abu Dhabi Crown Prince Court,government,logo-build-2026-09
-gmg.png,GMG,,logo-build-2026-09
-hrdf.png,Human Resources Development Fund,,logo-build-2026-09
-ferrero.png,Ferrero,,logo-build-2026-09
-dupont.png,DuPont,,logo-build-2026-09
-ifrc.png,IFRC,,logo-build-2026-09
-samruk-kazyna.png,Samruk-Kazyna,finance,logo-build-2026-09
-al-futtaim.png,Al-Futtaim,,logo-build-2026-09
-zain.png,Zain,,logo-build-2026-09
-elm.png,Elm,technology,logo-build-2026-09
-abu-dhabi-fund-for-development.png,Abu Dhabi Fund for Development,,logo-build-2026-09
-beko.png,Beko,,logo-build-2026-09
-stanbic-ibtc.png,Stanbic IBTC,finance,logo-build-2026-09
-kuwait-finance-house.png,Kuwait Finance House,finance,logo-build-2026-09
-borouge.png,Borouge,,logo-build-2026-09
-heidelberg-materials.png,Heidelberg Materials,construction,logo-build-2026-09
-saudi-ministry-of-investment.png,Saudi Ministry of Investment,government,logo-build-2026-09
-frontex.png,Frontex,,logo-build-2026-09
-fao.png,Food and Agriculture Organization of the United Nations,,logo-build-2026-09
-addax-petroleum.png,Addax Petroleum,energy,logo-build-2026-09
-nexthink.png,Nexthink,technology,logo-build-2026-09
-dubai-rta.png,Dubai Roads and Transport Authority,government,logo-build-2026-09
-difc.png,Dubai International Financial Centre,government,logo-build-2026-09
-qatar-foundation.png,Qatar Foundation,,logo-build-2026-09
-kaust.png,KAUST,,logo-build-2026-09
-saudi-food-and-drug-authority.png,Saudi Food and Drug Authority,government,logo-build-2026-09
-zesco.png,ZESCO,energy,logo-build-2026-09
-geothermal-development-company.png,Geothermal Development Company,energy,logo-build-2026-09
-dubai-healthcare-city.png,Dubai Healthcare City,government,logo-build-2026-09
-help-ag.png,Help AG,technology,logo-build-2026-09
-zahid-group.png,Zahid Group,,logo-build-2026-09
-nama.png,Nama,energy,logo-build-2026-09
-insa-ethiopia.png,INSA Ethiopia,government,logo-build-2026-09
-cotco.png,COTCO,energy,logo-build-2026-09
-anti-doping-lab-qatar.png,Anti-Doping Lab Qatar,,logo-build-2026-09
-mmi.png,MMI,,logo-build-2026-09
-rsa-insurance.png,RSA,finance,logo-build-2026-09
-zurich.png,Zurich,finance,logo-build-2026-09
-aviva.png,Aviva,finance,logo-build-2026-09
-coface.png,Coface,finance,logo-build-2026-09
-safaricom.png,Safaricom,,logo-build-2026-09
-stc.png,stc,,logo-build-2026-09
-azercell.png,Azercell,,logo-build-2026-09
-telenet.png,Telenet,,logo-build-2026-09
-movenpick.png,Mövenpick,,logo-build-2026-09
-accor.png,Accor,,logo-build-2026-09
-sabre.png,Sabre,technology,logo-build-2026-09
-uefa.png,UEFA,,logo-build-2026-09
-al-nasr-club.png,Al Nasr Club,,logo-build-2026-09
-gwec.png,Global Wind Energy Council,energy,logo-build-2026-09
-iaapa.png,IAAPA,,logo-build-2026-09
-vdi.png,VDI,,logo-build-2026-09
-canadian-medical-association.png,Canadian Medical Association,healthcare,logo-build-2026-09
-american-college-of-radiology.png,American College of Radiology,healthcare,logo-build-2026-09
-which.png,Which?,,logo-build-2026-09
-agco.png,AGCO,,logo-build-2026-09
-dentsu.png,dentsu,,logo-build-2026-09
-maaden.png,Ma'aden,,logo-build-2026-09
-buhler.png,Bühler,,logo-build-2026-09
-sabic.png,SABIC,,logo-build-2026-09
-alba.png,Alba,,logo-build-2026-09
-ega.png,Emirates Global Aluminium,,logo-build-2026-09
-anglogold-ashanti.png,AngloGold Ashanti,,logo-build-2026-09
-hershey.png,Hershey,,logo-build-2026-09
-fonterra.png,Fonterra,,logo-build-2026-09
-storck.png,Storck,,logo-build-2026-09
-mccormick.png,McCormick,,logo-build-2026-09
-nespresso.png,Nespresso,,logo-build-2026-09
-thales.png,Thales,,logo-build-2026-09
-edge-group.png,EDGE,,logo-build-2026-09
-knight-frank.png,Knight Frank,,logo-build-2026-09
-mammoet.png,Mammoet,,logo-build-2026-09
-europol.png,Europol,,logo-build-2026-09
-unfpa.png,UNFPA,,logo-build-2026-09
-university-of-dubai.png,University of Dubai,,logo-build-2026-09
-bank-indonesia.png,Bank Indonesia,finance,logo-build-2026-09
-engro.png,Engro,,logo-build-2026-09
-mtv.png,MTV,,logo-build-2026-09
-hachette-uk.png,Hachette UK,,logo-build-2026-09
-weill-cornell-medicine-qatar.png,Weill Cornell Medicine-Qatar,healthcare,logo-build-2026-09
-sukkur-iba-university.png,Sukkur IBA University,,logo-build-2026-09
-saudi-industrial-development-fund.png,Saudi Industrial Development Fund,finance,logo-build-2026-09
-islamic-financial-services-board.png,Islamic Financial Services Board,finance,logo-build-2026-09
-cibse.png,CIBSE,construction,logo-build-2026-09
-brunei-fertilizer-industries.png,Brunei Fertilizer Industries,,logo-build-2026-09
-gp-strategies.png,GP Strategies,,logo-build-2026-09
-dar-rapid-transit-agency.png,Dar Rapid Transit Agency,government,logo-build-2026-09
-leoron-institute.png,Leoron Institute,,logo-build-2026-09
-sadara.png,Sadara,,logo-build-2026-09
-national-health-insurance-authority.png,National Health Insurance Authority,government;healthcare,logo-build-2026-09
-institute-of-public-administration.png,Institute of Public Administration,government,logo-build-2026-09
-accountancy-europe.png,Accountancy Europe,,logo-build-2026-09
-ahmed-seddiqi.png,Ahmed Seddiqi,,logo-build-2026-09
-alvean.png,Alvean,,logo-build-2026-09
-daman.png,Daman,healthcare,logo-build-2026-09
-alfanar.png,alfanar,,logo-build-2026-09
-sohar-aluminium.png,Sohar Aluminium,,logo-build-2026-09
-djezzy.png,Djezzy,,logo-build-2026-09
-jazz.png,Jazz,,logo-build-2026-09
-eshailsat.png,Es'hailSat,,logo-build-2026-09
-klabin.png,Klabin,,logo-build-2026-09
-ecco.png,ECCO,,logo-build-2026-09
-tui.png,TUI,,logo-build-2026-09
-st-regis.png,St. Regis,,logo-build-2026-09
-gic-re.png,GIC Re,finance,logo-build-2026-09
-harlequins.png,Harlequins,,logo-build-2026-09
-ssnit.png,SSNIT,government,logo-build-2026-09
-belize-telemedia.png,Belize Telemedia,,logo-build-2026-09
-pasha-holding.png,PASHA Holding,finance,logo-build-2026-09
-euromines.png,Euromines,,logo-build-2026-09
-eurocontrol.png,EUROCONTROL,aviation,logo-build-2026-09
-coca-cola-hbc.png,Coca-Cola HBC,,logo-build-2026-09
-european-round-table-for-industry.png,European Round Table for Industry,,logo-build-2026-09
-ja-resorts-and-hotels.png,JA Resorts and Hotels,,logo-build-2026-09
-kcal.png,Kcal,,logo-build-2026-09
-ssb.png,SSB,government,logo-build-2026-09
-avid.png,Avid,technology,logo-build-2026-09
-rosneft.png,Rosneft,energy,logo-build-2026-09
-office-of-naval-research.png,Office of Naval Research,government,logo-build-2026-09
-trinidad-and-tobago-bureau-of-standards.png,Trinidad and Tobago Bureau of Standards,government,logo-build-2026-09
-intersystems.png,InterSystems,technology,logo-build-2026-09
-petrobras.png,Petrobras,energy,logo-build-2026-09
-usda.png,USDA,government,logo-build-2026-09
-project-management-institute.png,Project Management Institute,,logo-build-2026-09
-washington-state-dshs.png,Washington State DSHS,government,logo-build-2026-09
-stefanini.png,Stefanini,,logo-build-2026-09
-counterpart-international.png,Counterpart International,,logo-build-2026-09
-ebs-suriname.png,EBS,energy,logo-build-2026-09
-pwc.png,PwC,,logo-build-2026-09
-rcem.png,Royal College of Emergency Medicine,healthcare,logo-build-2026-09
-fti-consulting.png,FTI Consulting,,logo-build-2026-09
-bupa.png,Bupa,healthcare,logo-build-2026-09
-e-and.png,e&,,logo-build-2026-09
-kings-college-london.png,King's College London,,logo-build-2026-09
-deutsche-telekom.png,Deutsche Telekom,,logo-build-2026-09
-marriott.png,Marriott,,logo-build-2026-09
-esa.png,European Space Agency,,logo-build-2026-09
-mindshare.png,Mindshare,,logo-build-2026-09
-georgetown.png,Georgetown University,,logo-build-2026-09
-tum.png,Technical University of Munich,,logo-build-2026-09
-crtv.png,CRTV,,logo-build-2026-09
-du.png,du,,logo-build-2026-09
-aus.png,American University of Sharjah,,logo-build-2026-09
-gac.png,GAC,,logo-build-2026-09
-little-brown.png,"Little, Brown Book Group",,logo-build-2026-09
-auc.png,The American University in Cairo,,logo-build-2026-09
-serco.png,Serco,,logo-build-2026-09
-zalando.png,Zalando,,logo-build-2026-09
-nyu.png,New York University,,logo-build-2026-09
-university-of-sydney.png,University of Sydney,,logo-build-2026-09
-ada-university.png,ADA University,,logo-build-2026-09
-veon.png,VEON,,logo-build-2026-09
-richemont.png,Richemont,,logo-build-2026-09
-university-of-copenhagen.png,University of Copenhagen,,logo-build-2026-09
-rm-education.png,RM Education,,logo-build-2026-09
-montblanc.png,Montblanc,,logo-build-2026-09
-omantel.png,Omantel,,logo-build-2026-09
-hult.png,Hult International Business School,,logo-build-2026-09
-arthur-d-little.png,Arthur D. Little,,logo-build-2026-09
-niit.png,NIIT,,logo-build-2026-09
-michelin.png,Michelin,,logo-build-2026-09
-saatchi-and-saatchi.png,Saatchi and Saatchi,,logo-build-2026-09
-putzmeister.png,Putzmeister,construction,logo-build-2026-09
-doha-film-institute.png,Doha Film Institute,,logo-build-2026-09
-vallourec.png,Vallourec,,logo-build-2026-09
-ey.png,EY,,logo-build-2026-09
-dior.png,Dior,,logo-build-2026-09
-tecom.png,TECOM Group,construction,logo-build-2026-09
-latham-and-watkins.png,Latham and Watkins,,logo-build-2026-09
-union-coop.png,Union Coop,,logo-build-2026-09
-mtn-irancell.png,MTN Irancell,,logo-build-2026-09
-northwestern.png,Northwestern University,,logo-build-2026-09
-msl.png,MSL,,logo-build-2026-09
-new-murabba.png,New Murabba,construction,logo-build-2026-09
-ucl.png,UCL,,logo-build-2026-09
-alcs.png,ALCS,,logo-build-2026-09
-dla-piper.png,DLA Piper,,logo-build-2026-09
-acca.png,ACCA,,logo-build-2026-09
-allianz.png,Allianz,finance,logo-build-2026-09
-yorkshire-building-society.png,Yorkshire Building Society,finance,logo-build-2026-09
-lloyds-register.png,Lloyd's Register,,logo-build-2026-09
-rics.png,RICS,,logo-build-2026-09
-ciarb.png,Chartered Institute of Arbitrators,,logo-build-2026-09
-omnicom.png,Omnicom,,logo-build-2026-09
-bcg.png,Boston Consulting Group,,logo-build-2026-09
-jumeirah.png,Jumeirah,,logo-build-2026-09
-engel-and-volkers.png,Engel and Völkers,,logo-build-2026-09
-gems-education.png,GEMS Education,,logo-build-2026-09
-ace-uk.png,Association for Consultancy and Engineering,construction,logo-build-2026-09
-specsavers.png,Specsavers,,logo-build-2026-09
-nsf.png,NSF,,logo-build-2026-09
-capreit.png,CAPREIT,,logo-build-2026-09
-ib.png,International Baccalaureate,,logo-build-2026-09
-ae-networks.png,A+E Global Media,,logo-build-2026-09
-ef.png,EF Education First,,logo-build-2026-09
-groupe-seb.png,Groupe SEB,,logo-build-2026-09
-hodder-and-stoughton.png,Hodder and Stoughton,,logo-build-2026-09
-university-of-essex.png,University of Essex,,logo-build-2026-09
-tv2-denmark.png,TV 2,,logo-build-2026-09
-teneo.png,Teneo,,logo-build-2026-09
-kone.png,KONE,,logo-build-2026-09
-danfoss.png,Danfoss,,logo-build-2026-09
-iss.png,ISS,,logo-build-2026-09
-technogym.png,Technogym,,logo-build-2026-09
-erasmus-university-rotterdam.png,Erasmus University Rotterdam,,logo-build-2026-09
-virginia-tech.png,Virginia Tech,,logo-build-2026-09
-legal-and-general.png,Legal and General,finance,logo-build-2026-09
-radisson.png,Radisson Hotel Group,,logo-build-2026-09
-snb.png,Saudi National Bank,finance,logo-build-2026-09
-botswana-defence-force.png,Botswana Defence Force,government,logo-build-2026-09
-lazada.png,Lazada,technology,logo-build-2026-09
-tdra.png,Telecommunications and Digital Government Regulatory Authority,government,logo-build-2026-09
-enoc.png,ENOC,energy,logo-build-2026-09
-adia.png,Abu Dhabi Investment Authority,finance,logo-build-2026-09
-conocophillips.png,ConocoPhillips,energy,logo-build-2026-09
-qfc.png,Qatar Financial Centre,government,logo-build-2026-09
-kpc.png,Kuwait Petroleum Corporation,energy,logo-build-2026-09
-mobily.png,Mobily,,logo-build-2026-09
-kacare.png,K.A.CARE,government,logo-build-2026-09
-epp-group.png,EPP Group,,logo-build-2026-09
-efsa.png,European Food Safety Authority,government,logo-build-2026-09
-npa-ghana.png,Ghana National Petroleum Authority,government,logo-build-2026-09
-bank-of-zambia.png,Bank of Zambia,finance,logo-build-2026-09
-alcon.png,Alcon,healthcare,logo-build-2026-09
-indonesia-mof.png,Indonesia Ministry of Finance,government,logo-build-2026-09
-saudi-mep.png,Saudi Ministry of Economy and Planning,government,logo-build-2026-09
-abpi.png,ABPI,healthcare,logo-build-2026-09
-nsia.png,Nigeria Sovereign Investment Authority,finance,logo-build-2026-09
-malaysia-moh.png,Malaysia Ministry of Health,government,logo-build-2026-09
-kenha.png,Kenya National Highways Authority,government,logo-build-2026-09
-digital-dubai.png,Digital Dubai,government,logo-build-2026-09
-georgia-moes.png,"Georgia Ministry of Education, Science and Youth",government,logo-build-2026-09
-wra-kenya.png,Kenya Water Resources Authority,government,logo-build-2026-09
-eni.png,Eni,energy,logo-build-2026-09
-vcu.png,Virginia Commonwealth University,,logo-build-2026-09
-unesco.png,UNESCO,,logo-build-2026-09
-un-women.png,UN Women,,logo-build-2026-09
-unv.png,UN Volunteers,,logo-build-2026-09
-ohchr.png,UN Human Rights,,logo-build-2026-09
-pri.png,Principles for Responsible Investment,,logo-build-2026-09
-btca.png,Better Than Cash Alliance,,logo-build-2026-09
-euaa.png,European Union Agency for Asylum,government,logo-build-2026-09
-fcdo.png,"Foreign, Commonwealth and Development Office",government,logo-build-2026-09
-ebi.png,EMBL-EBI,,logo-build-2026-09
-dubai-culture.png,Dubai Culture,government,logo-build-2026-09
-gea-saudi.png,Saudi General Entertainment Authority,government,logo-build-2026-09
-martens-centre.png,Wilfried Martens Centre,,logo-build-2026-09
-lukoil.png,LUKOIL,energy,logo-build-2026-09
-kew.png,"Royal Botanic Gardens, Kew",,logo-build-2026-09
-commonwealth-foundation.png,Commonwealth Foundation,,logo-build-2026-09
-tra-bahrain.png,Bahrain Telecommunications Regulatory Authority,government,logo-build-2026-09
-ecdc.png,European Centre for Disease Prevention and Control,healthcare,logo-build-2026-09
-saudi-moh.png,Saudi Ministry of Health,government,logo-build-2026-09
-lga.png,Local Government Association,government,logo-build-2026-09
-emirates-nbd.png,Emirates NBD,finance,logo-build-2026-09
-eurojust.png,Eurojust,government,logo-build-2026-09
-eif.png,European Investment Fund,finance,logo-build-2026-09
-rcp.png,Royal College of Physicians,healthcare,logo-build-2026-09
-rac.png,Royal Automobile Club,,logo-build-2026-09
-foe.png,Friends of the Earth,,logo-build-2026-09
-edps.png,European Data Protection Supervisor,government,logo-build-2026-09
-parliament-of-ghana.png,Parliament of Ghana,government,logo-build-2026-09
-nibss.png,NIBSS,finance,logo-build-2026-09
-saudi-mim.png,Saudi Ministry of Industry and Mineral Resources,government,logo-build-2026-09
-rega.png,Saudi Real Estate General Authority,government,logo-build-2026-09
-saudi-eda.png,Saudi Export Development Authority,government,logo-build-2026-09
-trinidad-tobago.png,Government of Trinidad and Tobago,government,logo-build-2026-09
-bank-of-tanzania.png,Bank of Tanzania,finance,logo-build-2026-09
-bank-of-mozambique.png,Bank of Mozambique,finance,logo-build-2026-09
-rcaa.png,Rwanda Civil Aviation Authority,government,logo-build-2026-09
-nahdi.png,Nahdi,healthcare,logo-build-2026-09
-ofid.png,OPEC Fund for International Development,finance,logo-build-2026-09
-edctp.png,EDCTP,healthcare,logo-build-2026-09
-mbru.png,Mohammed Bin Rashid University of Medicine and Health Sciences,healthcare,logo-build-2026-09
-elf.png,European Lung Foundation,healthcare,logo-build-2026-09
-dct-abu-dhabi.png,Abu Dhabi Department of Culture and Tourism,government,logo-build-2026-09
-rakez.png,RAKEZ,government,logo-build-2026-09
-ejtn.png,European Judicial Training Network,,logo-build-2026-09
-emarat.png,Emarat,energy,logo-build-2026-09
-bomra.png,Botswana Medicines Regulatory Authority,government,logo-build-2026-09
-rura.png,Rwanda Utilities Regulatory Authority,government,logo-build-2026-09
-st-patricks.png,St Patrick's Mental Health Services,healthcare,logo-build-2026-09
-abu-dhabi-qcc.png,Abu Dhabi Quality and Conformity Council,government,logo-build-2026-09
-mindef-singapore.png,Singapore Ministry of Defence,government,logo-build-2026-09
-nigeria-federal-housing-authority.png,Nigeria Federal Housing Authority,government,logo-build-2026-09
-ghana-mest.png,"Ghana Ministry of Environment, Science and Technology",government,logo-build-2026-09
-yobe-state.png,Yobe State Government,government,logo-build-2026-09
-everllence.png,Everllence,energy,logo-build-2026-09
-jeemtv.png,JeemTV,,logo-build-2026-09
-mbrsc.png,Mohammed bin Rashid Space Centre,government,logo-build-2026-09
-emirates-group.png,The Emirates Group,aviation,logo-build-2026-09
-parliament-of-uganda.png,Parliament of Uganda,government,logo-build-2026-09
-uganda-ministry-of-education-and-sports.png,Uganda Ministry of Education and Sports,government,logo-build-2026-09
-uganda-ministry-of-works-and-transport.png,Uganda Ministry of Works and Transport,government,logo-build-2026-09
-uganda-ministry-of-health.png,Uganda Ministry of Health,government,logo-build-2026-09
-liberia-ministry-of-foreign-affairs.png,Liberia Ministry of Foreign Affairs,government,logo-build-2026-09
-sierra-leone-ministry-of-finance.png,Sierra Leone Ministry of Finance,government,logo-build-2026-09
-sierra-leone-ministry-of-information-and-communication.png,Sierra Leone Ministry of Information and Communication,government,logo-build-2026-09
-sierra-leone-ministry-of-transport-and-aviation.png,Sierra Leone Ministry of Transport and Aviation,government,logo-build-2026-09
-bahrain-ministry-of-foreign-affairs.png,Bahrain Ministry of Foreign Affairs,government,logo-build-2026-09
-bahrain-ministry-of-interior.png,Bahrain Ministry of Interior,government,logo-build-2026-09
-bahrain-ministry-of-education.png,Bahrain Ministry of Education,government,logo-build-2026-09
-nigeria-ministry-of-agriculture-and-food-security.png,Nigeria Federal Ministry of Agriculture and Food Security,government,logo-build-2026-09
-nigeria-ministry-of-housing-and-urban-development.png,Nigeria Federal Ministry of Housing and Urban Development,government,logo-build-2026-09
-uae-ministry-of-defence.png,UAE Ministry of Defence,government,logo-build-2026-09
-uae-ministry-of-education.png,UAE Ministry of Education,government,logo-build-2026-09
-uae-ministry-of-cabinet-affairs.png,UAE Ministry of Cabinet Affairs,government,logo-build-2026-09
-oman-ministry-of-education.png,Oman Ministry of Education,government,logo-build-2026-09
-qatar-ministry-of-foreign-affairs.png,Qatar Ministry of Foreign Affairs,government,logo-build-2026-09
-qatar-mcit.png,Qatar Ministry of Communications and Information Technology,government,logo-build-2026-09
-ghana-ministry-of-information.png,Ghana Ministry of Information,government,logo-build-2026-09
-seychelles-ministry-of-transport.png,"Seychelles Ministry of Transport, Ports and Civil Aviation",government,logo-build-2026-09
-sudan-ministry-of-social-security.png,Sudan Ministry of Social Security and Development,government,logo-build-2026-09
-aeb.png,Association of European Businesses,,logo-build-2026-09
-eeas.png,European External Action Service,government,logo-build-2026-09
-ers.png,European Respiratory Society,healthcare,logo-build-2026-09
-saudi-electronic-university.png,Saudi Electronic University,,logo-build-2026-09
-kenya-ministry-of-water-and-irrigation.png,Kenya Ministry of Water and Irrigation,government,logo-build-2026-09
-bahamas-ministry-of-education.png,"Bahamas Ministry of Education, Science and Technology",government,logo-build-2026-09
-uae-ministry-of-human-resources.png,UAE Ministry of Human Resources and Emiratisation,government,logo-build-2026-09
-uae-ministry-of-energy-and-infrastructure.png,UAE Ministry of Energy and Infrastructure,government,logo-build-2026-09
-uae-presidential-court.png,UAE Presidential Court,government,logo-build-2026-09
-uganda-ministry-of-finance.png,"Uganda Ministry of Finance, Planning and Economic Development",government,logo-build-2026-09
-mubadala.png,Mubadala,finance,logo-build-2026-09
-uae-ministry-of-industry-and-advanced-technology.png,UAE Ministry of Industry and Advanced Technology,government,logo-build-2026-09
+file,display_name,tags,source,aliases
+accenture.png,Accenture,wall,skoda-proposal-v2-2026-08,
+adidas.png,Adidas,wall,skoda-proposal-v2-2026-08,
+aig.png,AIG,wall,skoda-proposal-v2-2026-08,AIG MEA
+airbnb.png,Airbnb,wall,skoda-proposal-v2-2026-08,
+airbus.png,Airbus,wall,skoda-proposal-v2-2026-08,
+alstom.png,Alstom,wall,skoda-proposal-v2-2026-08,
+apple.png,Apple,wall,skoda-proposal-v2-2026-08,
+asian-development-bank.png,Asian Development Bank,wall,skoda-proposal-v2-2026-08,
+audi.png,Audi,wall,skoda-proposal-v2-2026-08,
+akzonobel.png,AkzoNobel,wall,skoda-proposal-v2-2026-08,
+bae-systems.png,BAE Systems,wall,skoda-proposal-v2-2026-08,
+barclays.png,Barclays,wall,skoda-proposal-v2-2026-08,
+basf.png,BASF,wall,skoda-proposal-v2-2026-08,
+bayer.png,Bayer,wall,skoda-proposal-v2-2026-08,
+bosch.png,Bosch,wall,skoda-proposal-v2-2026-08,
+bp.png,BP,wall,skoda-proposal-v2-2026-08,
+british-airways.png,British Airways,wall,skoda-proposal-v2-2026-08,
+british-council.png,British Council,wall,skoda-proposal-v2-2026-08,
+bt.png,BT,wall,skoda-proposal-v2-2026-08,
+cable-and-wireless.png,Cable and Wireless,wall,skoda-proposal-v2-2026-08,
+caterpillar.png,Caterpillar,wall,skoda-proposal-v2-2026-08,
+chevron.png,Chevron,wall,skoda-proposal-v2-2026-08,Saudi Arabian Chevron
+cisco.png,Cisco,wall,skoda-proposal-v2-2026-08,
+coca-cola.png,Coca Cola,wall,skoda-proposal-v2-2026-08,
+costa.png,Costa,wall,skoda-proposal-v2-2026-08,
+mercedes-benz-daimler.png,Mercedes Benz Daimler,wall,skoda-proposal-v2-2026-08,
+dell.png,Dell,wall,skoda-proposal-v2-2026-08,
+deloitte.png,Deloitte,wall,skoda-proposal-v2-2026-08,
+deutsche-bank.png,Deutsche Bank,wall,skoda-proposal-v2-2026-08,
+dhl.png,DHL,wall,skoda-proposal-v2-2026-08,DHL Express
+european-central-bank.png,European Central Bank,wall,skoda-proposal-v2-2026-08,
+emirates.png,Emirates,wall,skoda-proposal-v2-2026-08,
+esso.png,Esso,wall,skoda-proposal-v2-2026-08,
+estee-lauder.png,Estee Lauder,wall,skoda-proposal-v2-2026-08,
+european-central-bank-eurosystem.png,European Central Bank Eurosystem,wall,skoda-proposal-v2-2026-08,
+european-commission.png,European Commission,wall,skoda-proposal-v2-2026-08,
+european-parliament.png,European Parliament,wall,skoda-proposal-v2-2026-08,
+fedex.png,Fedex,wall,skoda-proposal-v2-2026-08,
+ferrari.png,Ferrari,wall,skoda-proposal-v2-2026-08,
+fifa.png,FIFA,wall,skoda-proposal-v2-2026-08,
+general-motors.png,General Motors,wall,skoda-proposal-v2-2026-08,
+google.png,Google,wall,skoda-proposal-v2-2026-08,Deepmind Google UK
+gsk.png,GSK,wall,skoda-proposal-v2-2026-08,
+heineken.png,Heineken,wall,skoda-proposal-v2-2026-08,
+hilton.png,Hilton,wall,skoda-proposal-v2-2026-08,
+hsbc.png,HSBC,wall,skoda-proposal-v2-2026-08,
+ikea.png,IKEA,wall,skoda-proposal-v2-2026-08,
+insead.png,INSEAD,wall,skoda-proposal-v2-2026-08,
+kelloggs.png,Kelloggs,wall,skoda-proposal-v2-2026-08,Kellogg Marketing and Sales Company (UK); Kellogg's
+lego.png,LEGO,wall,skoda-proposal-v2-2026-08,
+lufthansa.png,Lufthansa,wall,skoda-proposal-v2-2026-08,
+maserati.png,Maserati,wall,skoda-proposal-v2-2026-08,
+maserati-wordmark.png,Maserati Wordmark,wall,skoda-proposal-v2-2026-08,
+mclaren.png,McLaren,wall,skoda-proposal-v2-2026-08,
+microsoft.png,Microsoft,wall,skoda-proposal-v2-2026-08,
+mitsubishi.png,Mitsubishi,wall,skoda-proposal-v2-2026-08,
+nato.png,NATO,wall,skoda-proposal-v2-2026-08,North Atlantic Treaty Organisation
+nestle.png,Nestle,wall,skoda-proposal-v2-2026-08,
+opec.png,OPEC,wall,skoda-proposal-v2-2026-08,OFID; OPEC Fund for International Development
+oxfam.png,Oxfam,wall,skoda-proposal-v2-2026-08,
+pepsico.png,PepsiCo,wall,skoda-proposal-v2-2026-08,
+pfizer.png,Pfizer,wall,skoda-proposal-v2-2026-08,
+philips.png,Philips,wall,skoda-proposal-v2-2026-08,
+porsche.png,Porsche,wall,skoda-proposal-v2-2026-08,
+icrc.png,ICRC,wall,skoda-proposal-v2-2026-08,
+samsung.png,Samsung,wall,skoda-proposal-v2-2026-08,
+sap.png,SAP,wall,skoda-proposal-v2-2026-08,
+aramco.png,Aramco,wall,skoda-proposal-v2-2026-08,Saudi Aramco; SASREF
+shell.png,Shell,wall,skoda-proposal-v2-2026-08,SNEPCo
+siemens.png,Siemens,wall,skoda-proposal-v2-2026-08,
+sony.png,Sony,wall,skoda-proposal-v2-2026-08,
+texaco.png,Texaco,wall,skoda-proposal-v2-2026-08,
+world-bank.png,World Bank,wall,skoda-proposal-v2-2026-08,Somalia Capacity Injection Project
+thomson-reuters.png,Thomson Reuters,wall,skoda-proposal-v2-2026-08,
+total.png,Total,wall,skoda-proposal-v2-2026-08,
+toyota.png,Toyota,wall,skoda-proposal-v2-2026-08,
+uber.png,Uber,wall,skoda-proposal-v2-2026-08,
+undp.png,UNDP,wall,skoda-proposal-v2-2026-08,United Nations Development Programme
+unhcr.png,UNHCR,wall,skoda-proposal-v2-2026-08,United Nations High Commissioner for Refugees
+unicef.png,UNICEF,wall,skoda-proposal-v2-2026-08,United Nations Children's Fund
+united-nations.png,United Nations,wall,skoda-proposal-v2-2026-08,UN Guinea Bissau; UN Resident Coordinator's Office in Sierra Leone; UN Stabilization Mission in DRC; UNAMID; UNIFIL
+us-navy.png,US Navy,wall,skoda-proposal-v2-2026-08,
+university-of-oxford.png,University of Oxford,wall,skoda-proposal-v2-2026-08,
+visa.png,Visa,wall,skoda-proposal-v2-2026-08,
+vodafone.png,Vodafone,wall,skoda-proposal-v2-2026-08,
+volkswagen.png,Volkswagen,wall,skoda-proposal-v2-2026-08,
+volvo.png,Volvo,wall,skoda-proposal-v2-2026-08,
+western-union.png,Western Union,wall,skoda-proposal-v2-2026-08,
+world-health-organization.png,World Health Organization,wall,skoda-proposal-v2-2026-08,
+wwf.png,WWF,wall,skoda-proposal-v2-2026-08,Emirates Wildlife Society; WWF Cambodia; WWF Russia
+volkswagen-group-wordmark.png,Volkswagen Group Wordmark,automotive,logo-build-2026-09,
+porsche-wordmark.png,Porsche Wordmark,automotive,logo-build-2026-09,
+man.png,MAN Truck and Bus,automotive,logo-build-2026-09,
+scania.png,Scania,automotive,logo-build-2026-09,
+mercedes-benz-star.png,Mercedes Benz Star,automotive,logo-build-2026-09,
+ferrari-wordmark.png,Ferrari Wordmark,automotive,logo-build-2026-09,
+maserati-script.png,Maserati Script,automotive,logo-build-2026-09,
+mclaren-wordmark.png,McLaren (wordmark),automotive,logo-build-2026-09,
+general-motors-modern.png,General Motors (current mark),automotive,logo-build-2026-09,
+volvo-wordmark.png,Volvo Wordmark,automotive,logo-build-2026-09,
+tata.png,Tata,automotive,logo-build-2026-09,
+denso.png,DENSO,automotive,logo-build-2026-09,
+cnh-industrial.png,CNH Industrial,automotive,logo-build-2026-09,
+government-of-singapore.png,Government of Singapore,government,sector-expansion-2026-08,
+royal-hashemite-court.png,The Royal Hashemite Court,government,sector-expansion-2026-08,Jordan Royal Hashemite Court
+international-cricket-council.png,International Cricket Council,government,sector-expansion-2026-08,
+adnoc.png,ADNOC,energy,sector-expansion-2026-08,ADGAS
+totalenergies.png,TotalEnergies,energy,sector-expansion-2026-08,
+engie.png,Engie,energy,sector-expansion-2026-08,
+petronas.png,Petronas,energy,sector-expansion-2026-08,
+oq.png,OQ,energy,sector-expansion-2026-08,
+kuwait-petroleum-international.png,Kuwait Petroleum International,energy,sector-expansion-2026-08,
+veolia.png,Veolia,energy,sector-expansion-2026-08,
+tabreed.png,Tabreed,energy,sector-expansion-2026-08,
+novo-nordisk.png,Novo Nordisk,healthcare,sector-expansion-2026-08,
+beiersdorf.png,Beiersdorf,healthcare,sector-expansion-2026-08,
+cook-medical.png,Cook Medical,healthcare,sector-expansion-2026-08,
+alexion.png,Alexion,healthcare,sector-expansion-2026-08,
+nice.png,NICE,healthcare,sector-expansion-2026-08,National Institute for Health and Care Excellence NICE; National Institute for Health and Care Excellence
+bnp-paribas.png,BNP Paribas,finance,sector-expansion-2026-08,
+bank-of-england.png,Bank of England,finance,sector-expansion-2026-08,
+islamic-development-bank.png,Islamic Development Bank,finance,sector-expansion-2026-08,
+public-investment-fund.png,Public Investment Fund,finance,sector-expansion-2026-08,Saudi Public Investments Fund (KSA)
+saudi-exchange.png,Tadawul,finance,sector-expansion-2026-08,Saudi Stock Exchange (Tadawul); Saudi Stock Exchange
+adib.png,Abu Dhabi Islamic Bank,finance,sector-expansion-2026-08,
+bank-of-korea.png,Bank of Korea,finance,sector-expansion-2026-08,
+dp-world.png,DP World,aviation,sector-expansion-2026-08,
+etihad-rail.png,Etihad Rail,aviation,sector-expansion-2026-08,
+network-rail.png,Network Rail,aviation,sector-expansion-2026-08,
+ibm.png,IBM,technology,sector-expansion-2026-08,
+ericsson.png,Ericsson,technology,sector-expansion-2026-08,
+autodesk.png,Autodesk,technology,sector-expansion-2026-08,
+schneider-electric.png,Schneider Electric,technology,sector-expansion-2026-08,
+canon.png,Canon,technology,sector-expansion-2026-08,
+kaspersky.png,Kaspersky,technology,sector-expansion-2026-08,
+abu-dhabi-ports.png,Abu Dhabi Ports,aviation,sector-expansion-2026-08-14,ADPC
+adq.png,ADQ,government,sector-expansion-2026-08-14,
+bapco.png,Bapco Energies,energy,sector-expansion-2026-08-14,BAPCO; BAPCO Refining
+bis.png,Bank for International Settlements,finance,sector-expansion-2026-08-14,
+central-bank-of-uae.png,Central Bank of the UAE,finance,sector-expansion-2026-08-14,
+council-of-europe.png,Council of Europe,government,sector-expansion-2026-08-14,
+dubai-aerospace-enterprise.png,Dubai Aerospace Enterprise,aviation,sector-expansion-2026-08-14,
+dubai-chamber.png,Dubai Chamber of Commerce,government,sector-expansion-2026-08-14,
+dubai-media-office.png,Government of Dubai Media Office,government,sector-expansion-2026-08-14,
+dwtc.png,Dubai World Trade Centre,government,sector-expansion-2026-08-14,
+echr.png,European Court of Human Rights,government,sector-expansion-2026-08-14,
+enec.png,ENEC,energy,sector-expansion-2026-08-14,Emirates Nuclear Energy Corporation (ENEC); Emirates Nuclear Energy Corporation; Nawah Energy Company; Nawah
+european-society-of-cardiology.png,European Society of Cardiology,healthcare,sector-expansion-2026-08-14,
+hong-kong-police.png,Hong Kong Police Force,government,sector-expansion-2026-08-14,
+khazna.png,Khazna Data Centers,technology,sector-expansion-2026-08-14,
+khda.png,KHDA,government,sector-expansion-2026-08-14,Dubai Knowledge and Human Development Authority (KHDA)
+livanova.png,LivaNova,healthcare,sector-expansion-2026-08-14,
+nlng.png,Nigeria LNG,energy,sector-expansion-2026-08-14,NLNG
+saudi-cma.png,Saudi Capital Market Authority,finance,sector-expansion-2026-08-14,
+adgm.png,Abu Dhabi Global Market,finance,sector-expansion-2026-08-14,
+roche.png,Roche,healthcare,sector-expansion-2026-08-14,
+west-pharmaceutical.png,West Pharmaceutical Services,healthcare,sector-expansion-2026-08-14,
+mundipharma.png,Mundipharma,healthcare,sector-expansion-2026-08-14,
+ucb.png,UCB,healthcare,sector-expansion-2026-08-14,UCB Pharma
+octapharma.png,Octapharma,healthcare,sector-expansion-2026-08-14,
+cleveland-clinic-abu-dhabi.png,Cleveland Clinic Abu Dhabi,healthcare,sector-expansion-2026-08-14,
+asyad.png,Asyad Group,aviation,sector-expansion-2026-08-14,Oman Global Logistics Group
+oldendorff.png,Oldendorff Carriers,aviation,sector-expansion-2026-08-14,
+malta-airport.png,Malta International Airport,aviation,sector-expansion-2026-08-14,
+iata.png,IATA,aviation,sector-expansion-2026-08-14,
+transport-for-london.png,Transport for London,aviation,sector-expansion-2026-08-14,
+eurostar.png,Eurostar,aviation,sector-expansion-2026-08-14,
+saudi-railway.png,Saudi Arabia Railways,aviation,sector-expansion-2026-08-14,
+masdar.png,Masdar,energy,gwec-proposal-2026-08,
+clean-energy-finance-corporation.png,Clean Energy Finance Corporation,energy,gwec-proposal-2026-08,
+350org.png,350.org,advocacy,gwec-proposal-2026-08,
+green-european-foundation.png,Green European Foundation,advocacy,gwec-proposal-2026-08,
+agra.png,AGRA,advocacy,gwec-proposal-2026-08,
+indonesia-ministry-energy.png,Indonesia Ministry of Energy and Mineral Resources,government,gwec-proposal-2026-08,
+thailand-ministry-energy.png,Thailand Ministry of Energy,government,gwec-proposal-2026-08,
+tanzania-coat-of-arms.png,Tanzania Ministry of Energy and Minerals,government,gwec-proposal-2026-08,
+bulgaria-coat-of-arms.png,Bulgaria Ministry of Environment and Water,government,gwec-proposal-2026-08,
+sri-lanka-emblem.png,Public Utilities Commission of Sri Lanka,government,gwec-proposal-2026-08,
+dubai-foundation-women-children.png,Dubai Foundation for Women and Children,women,gwec-proposal-2026-08,
+mcdermott.png,McDermott,construction,keo-proposal-2026-08,
+aecom.png,AECOM,construction,keo-proposal-2026-08,
+laing-orourke.png,Laing O'Rourke,construction,keo-proposal-2026-08,
+wsp.png,WSP,construction,keo-proposal-2026-08,
+skanska.png,Skanska,construction,keo-proposal-2026-08,
+ramboll.png,Ramboll,construction,keo-proposal-2026-08,
+nakheel.png,Nakheel,construction,keo-proposal-2026-08,
+damac.png,DAMAC,construction,keo-proposal-2026-08,
+qatari-diar.png,Qatari Diar,construction,keo-proposal-2026-08,
+miral.png,Miral,construction,keo-proposal-2026-08,
+majid-al-futtaim.png,Majid Al Futtaim Properties,construction,keo-proposal-2026-08,
+afcons.png,Afcons,construction,keo-proposal-2026-08,
+emaar-hospitality.png,Emaar Hospitality,construction,keo-proposal-2026-08,
+costain.png,Costain,construction,keo-proposal-2026-08,
+jti.png,JTI,,logo-build-2026-09,JT International (Romania); JTI (RMS)
+saudi-central-bank.png,Saudi Central Bank,finance,logo-build-2026-09,
+riyad-bank.png,Riyad Bank,finance,logo-build-2026-09,
+aggreko.png,Aggreko,energy,logo-build-2026-09,
+veeam.png,Veeam,technology,logo-build-2026-09,
+axa.png,AXA,finance,logo-build-2026-09,AXA IM Paris; AXA Investment Managers
+saudi-investment-bank.png,Saudi Investment Bank,finance,logo-build-2026-09,
+morrisons.png,Morrisons,,logo-build-2026-09,
+knpc.png,Kuwait National Petroleum Company,energy,logo-build-2026-09,KNPC
+intuit.png,Intuit,technology,logo-build-2026-09,
+gulf-international-bank.png,Gulf International Bank,finance,logo-build-2026-09,
+sami.png,Saudi Arabian Military Industries,,logo-build-2026-09,
+nnpc.png,NNPC,energy,logo-build-2026-09,
+saudi-ministry-of-human-resources.png,Saudi Ministry of Human Resources and Social Development,government,logo-build-2026-09,Saudi Ministry of Labour
+saudi-national-cybersecurity-authority.png,Saudi National Cybersecurity Authority,government,logo-build-2026-09,Saudi National Cybersecurity Agency (NCA)
+environment-agency-abu-dhabi.png,Environment Agency Abu Dhabi,government,logo-build-2026-09,Abu Dhabi Environment Agency
+control-risks.png,Control Risks,,logo-build-2026-09,
+libya-africa-investment-portfolio.png,Libya Africa Investment Portfolio,finance,logo-build-2026-09,
+abu-dhabi-dmt.png,Abu Dhabi Department of Municipalities and Transport,government,logo-build-2026-09,Abu Dhabi Department of Transport; UAE Department of Municipal Affairs; UAE Department of Urban Planning and Municipalities
+abu-dhabi-crown-prince-court.png,Abu Dhabi Crown Prince Court,government,logo-build-2026-09,
+gmg.png,GMG,,logo-build-2026-09,Sun & Sand Sports
+hrdf.png,Human Resources Development Fund,,logo-build-2026-09,
+ferrero.png,Ferrero,,logo-build-2026-09,
+dupont.png,DuPont,,logo-build-2026-09,
+ifrc.png,IFRC,,logo-build-2026-09,
+samruk-kazyna.png,Samruk-Kazyna,finance,logo-build-2026-09,
+al-futtaim.png,Al-Futtaim,,logo-build-2026-09,
+zain.png,Zain,,logo-build-2026-09,
+elm.png,Elm,technology,logo-build-2026-09,
+abu-dhabi-fund-for-development.png,Abu Dhabi Fund for Development,,logo-build-2026-09,
+beko.png,Beko,,logo-build-2026-09,
+stanbic-ibtc.png,Stanbic IBTC,finance,logo-build-2026-09,
+kuwait-finance-house.png,Kuwait Finance House,finance,logo-build-2026-09,
+borouge.png,Borouge,,logo-build-2026-09,
+heidelberg-materials.png,Heidelberg Materials,construction,logo-build-2026-09,HeidelbergCement Georgia; HeidelbergCement
+saudi-ministry-of-investment.png,Saudi Ministry of Investment,government,logo-build-2026-09,
+frontex.png,Frontex,,logo-build-2026-09,
+fao.png,Food and Agriculture Organization of the United Nations,,logo-build-2026-09,
+addax-petroleum.png,Addax Petroleum,energy,logo-build-2026-09,Addax
+nexthink.png,Nexthink,technology,logo-build-2026-09,
+dubai-rta.png,Dubai Roads and Transport Authority,government,logo-build-2026-09,
+difc.png,Dubai International Financial Centre,government,logo-build-2026-09,
+qatar-foundation.png,Qatar Foundation,,logo-build-2026-09,
+kaust.png,KAUST,,logo-build-2026-09,
+saudi-food-and-drug-authority.png,Saudi Food and Drug Authority,government,logo-build-2026-09,
+zesco.png,ZESCO,energy,logo-build-2026-09,
+geothermal-development-company.png,Geothermal Development Company,energy,logo-build-2026-09,
+dubai-healthcare-city.png,Dubai Healthcare City,government,logo-build-2026-09,
+help-ag.png,Help AG,technology,logo-build-2026-09,
+zahid-group.png,Zahid Group,,logo-build-2026-09,
+nama.png,Nama,energy,logo-build-2026-09,Oman Electricity Holding Company
+insa-ethiopia.png,INSA Ethiopia,government,logo-build-2026-09,INSA
+cotco.png,COTCO,energy,logo-build-2026-09,
+anti-doping-lab-qatar.png,Anti-Doping Lab Qatar,,logo-build-2026-09,Qatar Anti-Doping Lab
+mmi.png,MMI,,logo-build-2026-09,
+rsa-insurance.png,RSA,finance,logo-build-2026-09,
+zurich.png,Zurich,finance,logo-build-2026-09,
+aviva.png,Aviva,finance,logo-build-2026-09,
+coface.png,Coface,finance,logo-build-2026-09,
+safaricom.png,Safaricom,,logo-build-2026-09,
+stc.png,stc,,logo-build-2026-09,Arabian Internet and Communications Services Company (STC Solutions - STCS); Saudi Telecom Company (STC); Saudi Telecom Company
+azercell.png,Azercell,,logo-build-2026-09,
+telenet.png,Telenet,,logo-build-2026-09,
+movenpick.png,Mövenpick,,logo-build-2026-09,Movenpick Resort & Spa Dead Sea
+accor.png,Accor,,logo-build-2026-09,Pullman Dubai Creek City Centre
+sabre.png,Sabre,technology,logo-build-2026-09,
+uefa.png,UEFA,,logo-build-2026-09,
+al-nasr-club.png,Al Nasr Club,,logo-build-2026-09,
+gwec.png,Global Wind Energy Council,energy,logo-build-2026-09,
+iaapa.png,IAAPA,,logo-build-2026-09,
+vdi.png,VDI,,logo-build-2026-09,
+canadian-medical-association.png,Canadian Medical Association,healthcare,logo-build-2026-09,
+american-college-of-radiology.png,American College of Radiology,healthcare,logo-build-2026-09,
+which.png,Which?,,logo-build-2026-09,
+agco.png,AGCO,,logo-build-2026-09,
+dentsu.png,dentsu,,logo-build-2026-09,
+maaden.png,Ma'aden,,logo-build-2026-09,
+buhler.png,Bühler,,logo-build-2026-09,
+sabic.png,SABIC,,logo-build-2026-09,
+alba.png,Alba,,logo-build-2026-09,
+ega.png,Emirates Global Aluminium,,logo-build-2026-09,Dubai Aluminium (DUBAL); DUBAL
+anglogold-ashanti.png,AngloGold Ashanti,,logo-build-2026-09,
+hershey.png,Hershey,,logo-build-2026-09,
+fonterra.png,Fonterra,,logo-build-2026-09,
+storck.png,Storck,,logo-build-2026-09,
+mccormick.png,McCormick,,logo-build-2026-09,
+nespresso.png,Nespresso,,logo-build-2026-09,Nestlé Nespresso
+thales.png,Thales,,logo-build-2026-09,
+edge-group.png,EDGE,,logo-build-2026-09,Beacon Red
+knight-frank.png,Knight Frank,,logo-build-2026-09,
+mammoet.png,Mammoet,,logo-build-2026-09,
+europol.png,Europol,,logo-build-2026-09,
+unfpa.png,UNFPA,,logo-build-2026-09,United Nations Population Fund
+university-of-dubai.png,University of Dubai,,logo-build-2026-09,
+bank-indonesia.png,Bank Indonesia,finance,logo-build-2026-09,Bank of Indonesia Bengkulu
+engro.png,Engro,,logo-build-2026-09,
+mtv.png,MTV,,logo-build-2026-09,MTV Networks MENA
+hachette-uk.png,Hachette UK,,logo-build-2026-09,
+weill-cornell-medicine-qatar.png,Weill Cornell Medicine-Qatar,healthcare,logo-build-2026-09,
+sukkur-iba-university.png,Sukkur IBA University,,logo-build-2026-09,
+saudi-industrial-development-fund.png,Saudi Industrial Development Fund,finance,logo-build-2026-09,
+islamic-financial-services-board.png,Islamic Financial Services Board,finance,logo-build-2026-09,
+cibse.png,CIBSE,construction,logo-build-2026-09,
+brunei-fertilizer-industries.png,Brunei Fertilizer Industries,,logo-build-2026-09,
+gp-strategies.png,GP Strategies,,logo-build-2026-09,
+dar-rapid-transit-agency.png,Dar Rapid Transit Agency,government,logo-build-2026-09,
+leoron-institute.png,Leoron Institute,,logo-build-2026-09,Leoron Saudi Experts Company for Training
+sadara.png,Sadara,,logo-build-2026-09,
+national-health-insurance-authority.png,National Health Insurance Authority,government;healthcare,logo-build-2026-09,Ghana National Health Insurance Authority
+institute-of-public-administration.png,Institute of Public Administration,government,logo-build-2026-09,
+accountancy-europe.png,Accountancy Europe,,logo-build-2026-09,Federation of European Accountants (FEE)
+ahmed-seddiqi.png,Ahmed Seddiqi,,logo-build-2026-09,
+alvean.png,Alvean,,logo-build-2026-09,
+daman.png,Daman,healthcare,logo-build-2026-09,
+alfanar.png,alfanar,,logo-build-2026-09,
+sohar-aluminium.png,Sohar Aluminium,,logo-build-2026-09,
+djezzy.png,Djezzy,,logo-build-2026-09,
+jazz.png,Jazz,,logo-build-2026-09,
+eshailsat.png,Es'hailSat,,logo-build-2026-09,
+klabin.png,Klabin,,logo-build-2026-09,
+ecco.png,ECCO,,logo-build-2026-09,
+tui.png,TUI,,logo-build-2026-09,
+st-regis.png,St. Regis,,logo-build-2026-09,
+gic-re.png,GIC Re,finance,logo-build-2026-09,
+harlequins.png,Harlequins,,logo-build-2026-09,Harlequin Football Club
+ssnit.png,SSNIT,government,logo-build-2026-09,
+belize-telemedia.png,Belize Telemedia,,logo-build-2026-09,
+pasha-holding.png,PASHA Holding,finance,logo-build-2026-09,
+euromines.png,Euromines,,logo-build-2026-09,
+eurocontrol.png,EUROCONTROL,aviation,logo-build-2026-09,
+coca-cola-hbc.png,Coca-Cola HBC,,logo-build-2026-09,
+european-round-table-for-industry.png,European Round Table for Industry,,logo-build-2026-09,
+ja-resorts-and-hotels.png,JA Resorts and Hotels,,logo-build-2026-09,
+kcal.png,Kcal,,logo-build-2026-09,
+ssb.png,SSB,government,logo-build-2026-09,
+avid.png,Avid,technology,logo-build-2026-09,
+rosneft.png,Rosneft,energy,logo-build-2026-09,
+office-of-naval-research.png,Office of Naval Research,government,logo-build-2026-09,U.S. Office of Naval Research Global
+trinidad-and-tobago-bureau-of-standards.png,Trinidad and Tobago Bureau of Standards,government,logo-build-2026-09,
+intersystems.png,InterSystems,technology,logo-build-2026-09,
+petrobras.png,Petrobras,energy,logo-build-2026-09,
+usda.png,USDA,government,logo-build-2026-09,
+project-management-institute.png,Project Management Institute,,logo-build-2026-09,
+washington-state-dshs.png,Washington State DSHS,government,logo-build-2026-09,
+stefanini.png,Stefanini,,logo-build-2026-09,
+counterpart-international.png,Counterpart International,,logo-build-2026-09,
+ebs-suriname.png,EBS,energy,logo-build-2026-09,
+pwc.png,PwC,,logo-build-2026-09,PricewaterhouseCoopers
+rcem.png,Royal College of Emergency Medicine,healthcare,logo-build-2026-09,
+fti-consulting.png,FTI Consulting,,logo-build-2026-09,
+bupa.png,Bupa,healthcare,logo-build-2026-09,
+e-and.png,e&,,logo-build-2026-09,Etisalat
+kings-college-london.png,King's College London,,logo-build-2026-09,
+deutsche-telekom.png,Deutsche Telekom,,logo-build-2026-09,
+marriott.png,Marriott,,logo-build-2026-09,
+esa.png,European Space Agency,,logo-build-2026-09,
+mindshare.png,Mindshare,,logo-build-2026-09,
+georgetown.png,Georgetown University,,logo-build-2026-09,
+tum.png,Technical University of Munich,,logo-build-2026-09,
+crtv.png,CRTV,,logo-build-2026-09,
+du.png,du,,logo-build-2026-09,
+aus.png,American University of Sharjah,,logo-build-2026-09,
+gac.png,GAC,,logo-build-2026-09,
+little-brown.png,"Little, Brown Book Group",,logo-build-2026-09,
+auc.png,The American University in Cairo,,logo-build-2026-09,
+serco.png,Serco,,logo-build-2026-09,
+zalando.png,Zalando,,logo-build-2026-09,
+nyu.png,New York University,,logo-build-2026-09,
+university-of-sydney.png,University of Sydney,,logo-build-2026-09,
+ada-university.png,ADA University,,logo-build-2026-09,
+veon.png,VEON,,logo-build-2026-09,
+richemont.png,Richemont,,logo-build-2026-09,
+university-of-copenhagen.png,University of Copenhagen,,logo-build-2026-09,
+rm-education.png,RM Education,,logo-build-2026-09,
+montblanc.png,Montblanc,,logo-build-2026-09,
+omantel.png,Omantel,,logo-build-2026-09,
+hult.png,Hult International Business School,,logo-build-2026-09,
+arthur-d-little.png,Arthur D. Little,,logo-build-2026-09,
+niit.png,NIIT,,logo-build-2026-09,
+michelin.png,Michelin,,logo-build-2026-09,
+saatchi-and-saatchi.png,Saatchi and Saatchi,,logo-build-2026-09,
+putzmeister.png,Putzmeister,construction,logo-build-2026-09,
+doha-film-institute.png,Doha Film Institute,,logo-build-2026-09,
+vallourec.png,Vallourec,,logo-build-2026-09,
+ey.png,EY,,logo-build-2026-09,
+dior.png,Dior,,logo-build-2026-09,
+tecom.png,TECOM Group,construction,logo-build-2026-09,
+latham-and-watkins.png,Latham and Watkins,,logo-build-2026-09,
+union-coop.png,Union Coop,,logo-build-2026-09,
+mtn-irancell.png,MTN Irancell,,logo-build-2026-09,
+northwestern.png,Northwestern University,,logo-build-2026-09,
+msl.png,MSL,,logo-build-2026-09,
+new-murabba.png,New Murabba,construction,logo-build-2026-09,
+ucl.png,UCL,,logo-build-2026-09,
+alcs.png,ALCS,,logo-build-2026-09,
+dla-piper.png,DLA Piper,,logo-build-2026-09,
+acca.png,ACCA,,logo-build-2026-09,
+allianz.png,Allianz,finance,logo-build-2026-09,
+yorkshire-building-society.png,Yorkshire Building Society,finance,logo-build-2026-09,
+lloyds-register.png,Lloyd's Register,,logo-build-2026-09,
+rics.png,RICS,,logo-build-2026-09,
+ciarb.png,Chartered Institute of Arbitrators,,logo-build-2026-09,
+omnicom.png,Omnicom,,logo-build-2026-09,
+bcg.png,Boston Consulting Group,,logo-build-2026-09,
+jumeirah.png,Jumeirah,,logo-build-2026-09,
+engel-and-volkers.png,Engel and Völkers,,logo-build-2026-09,
+gems-education.png,GEMS Education,,logo-build-2026-09,
+ace-uk.png,Association for Consultancy and Engineering,construction,logo-build-2026-09,
+specsavers.png,Specsavers,,logo-build-2026-09,
+nsf.png,NSF,,logo-build-2026-09,
+capreit.png,CAPREIT,,logo-build-2026-09,
+ib.png,International Baccalaureate,,logo-build-2026-09,
+ae-networks.png,A+E Global Media,,logo-build-2026-09,
+ef.png,EF Education First,,logo-build-2026-09,
+groupe-seb.png,Groupe SEB,,logo-build-2026-09,
+hodder-and-stoughton.png,Hodder and Stoughton,,logo-build-2026-09,
+university-of-essex.png,University of Essex,,logo-build-2026-09,
+tv2-denmark.png,TV 2,,logo-build-2026-09,TV 2 Denmark
+teneo.png,Teneo,,logo-build-2026-09,
+kone.png,KONE,,logo-build-2026-09,
+danfoss.png,Danfoss,,logo-build-2026-09,
+iss.png,ISS,,logo-build-2026-09,
+technogym.png,Technogym,,logo-build-2026-09,
+erasmus-university-rotterdam.png,Erasmus University Rotterdam,,logo-build-2026-09,
+virginia-tech.png,Virginia Tech,,logo-build-2026-09,
+legal-and-general.png,Legal and General,finance,logo-build-2026-09,
+radisson.png,Radisson Hotel Group,,logo-build-2026-09,
+snb.png,Saudi National Bank,finance,logo-build-2026-09,
+botswana-defence-force.png,Botswana Defence Force,government,logo-build-2026-09,
+lazada.png,Lazada,technology,logo-build-2026-09,
+tdra.png,Telecommunications and Digital Government Regulatory Authority,government,logo-build-2026-09,
+enoc.png,ENOC,energy,logo-build-2026-09,
+adia.png,Abu Dhabi Investment Authority,finance,logo-build-2026-09,
+conocophillips.png,ConocoPhillips,energy,logo-build-2026-09,
+qfc.png,Qatar Financial Centre,government,logo-build-2026-09,
+kpc.png,Kuwait Petroleum Corporation,energy,logo-build-2026-09,KIPIC; KPC; Kuwait Foreign Petroleum Exploration Company; KUFPEC
+mobily.png,Mobily,,logo-build-2026-09,
+kacare.png,K.A.CARE,government,logo-build-2026-09,
+epp-group.png,EPP Group,,logo-build-2026-09,EPP Group in the European Parliament
+efsa.png,European Food Safety Authority,government,logo-build-2026-09,
+npa-ghana.png,Ghana National Petroleum Authority,government,logo-build-2026-09,
+bank-of-zambia.png,Bank of Zambia,finance,logo-build-2026-09,
+alcon.png,Alcon,healthcare,logo-build-2026-09,
+indonesia-mof.png,Indonesia Ministry of Finance,government,logo-build-2026-09,
+saudi-mep.png,Saudi Ministry of Economy and Planning,government,logo-build-2026-09,
+abpi.png,ABPI,healthcare,logo-build-2026-09,The Association of the British Pharmaceutical Industry (ABPI); Association of the British Pharmaceutical Industry
+nsia.png,Nigeria Sovereign Investment Authority,finance,logo-build-2026-09,
+malaysia-moh.png,Malaysia Ministry of Health,government,logo-build-2026-09,
+kenha.png,Kenya National Highways Authority,government,logo-build-2026-09,
+digital-dubai.png,Digital Dubai,government,logo-build-2026-09,Dubai Smart Government Establishment; Dubai Smart Government
+georgia-moes.png,"Georgia Ministry of Education, Science and Youth",government,logo-build-2026-09,Georgia Ministry of Education and Science
+wra-kenya.png,Kenya Water Resources Authority,government,logo-build-2026-09,Kenya Water Resources Management Authority; Water Resources Management Authority
+eni.png,Eni,energy,logo-build-2026-09,AGIP Kazakhstan; Eni Corporate University
+vcu.png,Virginia Commonwealth University,,logo-build-2026-09,
+unesco.png,UNESCO,,logo-build-2026-09,
+un-women.png,UN Women,,logo-build-2026-09,UN Entity for Gender Equality (UN Women)
+unv.png,UN Volunteers,,logo-build-2026-09,
+ohchr.png,UN Human Rights,,logo-build-2026-09,
+pri.png,Principles for Responsible Investment,,logo-build-2026-09,UN PRI
+btca.png,Better Than Cash Alliance,,logo-build-2026-09,
+euaa.png,European Union Agency for Asylum,government,logo-build-2026-09,European Asylum Support Office (EASO)
+fcdo.png,"Foreign, Commonwealth and Development Office",government,logo-build-2026-09,Brazil Foreign and Commonwealth Office
+ebi.png,EMBL-EBI,,logo-build-2026-09,The European Bioinformatics Institute (EMBL-EBI); European Bioinformatics Institute
+dubai-culture.png,Dubai Culture,government,logo-build-2026-09,
+gea-saudi.png,Saudi General Entertainment Authority,government,logo-build-2026-09,
+martens-centre.png,Wilfried Martens Centre,,logo-build-2026-09,
+lukoil.png,LUKOIL,energy,logo-build-2026-09,
+kew.png,"Royal Botanic Gardens, Kew",,logo-build-2026-09,
+commonwealth-foundation.png,Commonwealth Foundation,,logo-build-2026-09,
+tra-bahrain.png,Bahrain Telecommunications Regulatory Authority,government,logo-build-2026-09,
+ecdc.png,European Centre for Disease Prevention and Control,healthcare,logo-build-2026-09,
+saudi-moh.png,Saudi Ministry of Health,government,logo-build-2026-09,
+lga.png,Local Government Association,government,logo-build-2026-09,
+emirates-nbd.png,Emirates NBD,finance,logo-build-2026-09,
+eurojust.png,Eurojust,government,logo-build-2026-09,European Union Agency for Criminal Justice Cooperation
+eif.png,European Investment Fund,finance,logo-build-2026-09,
+rcp.png,Royal College of Physicians,healthcare,logo-build-2026-09,
+rac.png,Royal Automobile Club,,logo-build-2026-09,
+foe.png,Friends of the Earth,,logo-build-2026-09,
+edps.png,European Data Protection Supervisor,government,logo-build-2026-09,
+parliament-of-ghana.png,Parliament of Ghana,government,logo-build-2026-09,
+nibss.png,NIBSS,finance,logo-build-2026-09,Nigeria Inter-Bank Settlement System (NIBSS)
+saudi-mim.png,Saudi Ministry of Industry and Mineral Resources,government,logo-build-2026-09,
+rega.png,Saudi Real Estate General Authority,government,logo-build-2026-09,
+saudi-eda.png,Saudi Export Development Authority,government,logo-build-2026-09,
+trinidad-tobago.png,Government of Trinidad and Tobago,government,logo-build-2026-09,Government of the Republic of Trinidad and Tobago
+bank-of-tanzania.png,Bank of Tanzania,finance,logo-build-2026-09,
+bank-of-mozambique.png,Bank of Mozambique,finance,logo-build-2026-09,
+rcaa.png,Rwanda Civil Aviation Authority,government,logo-build-2026-09,
+nahdi.png,Nahdi,healthcare,logo-build-2026-09,
+ofid.png,OPEC Fund for International Development,finance,logo-build-2026-09,
+edctp.png,EDCTP,healthcare,logo-build-2026-09,European and Developing Countries Clinical Trials Partnership (EDCTP)
+mbru.png,Mohammed Bin Rashid University of Medicine and Health Sciences,healthcare,logo-build-2026-09,
+elf.png,European Lung Foundation,healthcare,logo-build-2026-09,
+dct-abu-dhabi.png,Abu Dhabi Department of Culture and Tourism,government,logo-build-2026-09,Abu Dhabi Tourism and Culture Authority
+rakez.png,RAKEZ,government,logo-build-2026-09,RAK Free Trade Zone Authority
+ejtn.png,European Judicial Training Network,,logo-build-2026-09,
+emarat.png,Emarat,energy,logo-build-2026-09,Emirates General Petroleum Corporation
+bomra.png,Botswana Medicines Regulatory Authority,government,logo-build-2026-09,
+rura.png,Rwanda Utilities Regulatory Authority,government,logo-build-2026-09,
+st-patricks.png,St Patrick's Mental Health Services,healthcare,logo-build-2026-09,
+abu-dhabi-qcc.png,Abu Dhabi Quality and Conformity Council,government,logo-build-2026-09,
+mindef-singapore.png,Singapore Ministry of Defence,government,logo-build-2026-09,
+nigeria-federal-housing-authority.png,Nigeria Federal Housing Authority,government,logo-build-2026-09,
+ghana-mest.png,"Ghana Ministry of Environment, Science and Technology",government,logo-build-2026-09,Ghana Ministry of Environment
+yobe-state.png,Yobe State Government,government,logo-build-2026-09,
+everllence.png,Everllence,energy,logo-build-2026-09,MAN Diesel and Turbo; MAN Energy Solutions
+jeemtv.png,JeemTV,,logo-build-2026-09,Al Jazeera Children's Channel
+mbrsc.png,Mohammed bin Rashid Space Centre,government,logo-build-2026-09,Emirates Institute for Advanced Science and Technology; Emirates Institution for Advanced Science and Technology
+emirates-group.png,The Emirates Group,aviation,logo-build-2026-09,Emirates Group; Emirates Leisure Retail
+parliament-of-uganda.png,Parliament of Uganda,government,logo-build-2026-09,
+uganda-ministry-of-education-and-sports.png,Uganda Ministry of Education and Sports,government,logo-build-2026-09,
+uganda-ministry-of-works-and-transport.png,Uganda Ministry of Works and Transport,government,logo-build-2026-09,
+uganda-ministry-of-health.png,Uganda Ministry of Health,government,logo-build-2026-09,
+liberia-ministry-of-foreign-affairs.png,Liberia Ministry of Foreign Affairs,government,logo-build-2026-09,
+sierra-leone-ministry-of-finance.png,Sierra Leone Ministry of Finance,government,logo-build-2026-09,
+sierra-leone-ministry-of-information-and-communication.png,Sierra Leone Ministry of Information and Communication,government,logo-build-2026-09,
+sierra-leone-ministry-of-transport-and-aviation.png,Sierra Leone Ministry of Transport and Aviation,government,logo-build-2026-09,
+bahrain-ministry-of-foreign-affairs.png,Bahrain Ministry of Foreign Affairs,government,logo-build-2026-09,
+bahrain-ministry-of-interior.png,Bahrain Ministry of Interior,government,logo-build-2026-09,
+bahrain-ministry-of-education.png,Bahrain Ministry of Education,government,logo-build-2026-09,
+nigeria-ministry-of-agriculture-and-food-security.png,Nigeria Federal Ministry of Agriculture and Food Security,government,logo-build-2026-09,Nigeria Federal Ministry of Agriculture and Rural Development; Federal Ministry of Agriculture and Rural Development
+nigeria-ministry-of-housing-and-urban-development.png,Nigeria Federal Ministry of Housing and Urban Development,government,logo-build-2026-09,"Nigeria Federal Ministry of Lands, Housing and Urban Development; Federal Ministry of Lands, Housing and Urban Development"
+uae-ministry-of-defence.png,UAE Ministry of Defence,government,logo-build-2026-09,
+uae-ministry-of-education.png,UAE Ministry of Education,government,logo-build-2026-09,
+uae-ministry-of-cabinet-affairs.png,UAE Ministry of Cabinet Affairs,government,logo-build-2026-09,UAE Ministry of Cabinet Affairs (MOCA); UAE General Secretariat of the Cabinet; UAE Prime Minister's Office
+oman-ministry-of-education.png,Oman Ministry of Education,government,logo-build-2026-09,
+qatar-ministry-of-foreign-affairs.png,Qatar Ministry of Foreign Affairs,government,logo-build-2026-09,
+qatar-mcit.png,Qatar Ministry of Communications and Information Technology,government,logo-build-2026-09,Qatar Ministry of Information and Communication Technology
+ghana-ministry-of-information.png,Ghana Ministry of Information,government,logo-build-2026-09,
+seychelles-ministry-of-transport.png,"Seychelles Ministry of Transport, Ports and Civil Aviation",government,logo-build-2026-09,
+sudan-ministry-of-social-security.png,Sudan Ministry of Social Security and Development,government,logo-build-2026-09,
+aeb.png,Association of European Businesses,,logo-build-2026-09,
+eeas.png,European External Action Service,government,logo-build-2026-09,Delegation of the European Union Special Representative to Bosnia and Herzegovina
+ers.png,European Respiratory Society,healthcare,logo-build-2026-09,
+saudi-electronic-university.png,Saudi Electronic University,,logo-build-2026-09,
+kenya-ministry-of-water-and-irrigation.png,Kenya Ministry of Water and Irrigation,government,logo-build-2026-09,
+bahamas-ministry-of-education.png,"Bahamas Ministry of Education, Science and Technology",government,logo-build-2026-09,
+uae-ministry-of-human-resources.png,UAE Ministry of Human Resources and Emiratisation,government,logo-build-2026-09,UAE Ministry of Labour
+uae-ministry-of-energy-and-infrastructure.png,UAE Ministry of Energy and Infrastructure,government,logo-build-2026-09,UAE Ministry of Energy
+uae-presidential-court.png,UAE Presidential Court,government,logo-build-2026-09,UAE Ministry of Presidential Affairs
+uganda-ministry-of-finance.png,"Uganda Ministry of Finance, Planning and Economic Development",government,logo-build-2026-09,PROFIRA Uganda
+mubadala.png,Mubadala,finance,logo-build-2026-09,IPIC; International Petroleum Investment Company
+uae-ministry-of-industry-and-advanced-technology.png,UAE Ministry of Industry and Advanced Technology,government,logo-build-2026-09,UAE Emirates Authority for Standardization and Metrology; Emirates Authority for Standardization and Metrology
+nigeria-ministry-of-defence.png,Nigeria Ministry of Defence,government,logo-build-2026-09,
+ghana-ministry-of-education.png,Ghana Ministry of Education,government,logo-build-2026-09,
+oman-ministry-of-higher-education.png,Oman Ministry of Higher Education,government,logo-build-2026-09,
+oman-ministry-of-labour.png,Oman Ministry of Labour,government,logo-build-2026-09,Oman Ministry of Manpower
+sierra-leone-ministry-of-political-and-public-affairs.png,Sierra Leone Ministry of Political and Public Affairs,government,logo-build-2026-09,
