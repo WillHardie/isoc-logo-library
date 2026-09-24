@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 481.18 125.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #253642;
+      }
+
+      .cls-3 {
+        fill: #00b2bf;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="0" width="481.18" height="125.75"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="HKA_logo_-_bright_RGB" data-name="HKA logo - bright RGB">
+      <g>
+        <g class="cls-4">
+          <path class="cls-2" d="M430.18,0h-27.63l-50.99,125.74h30.24l9.12-24.19h50.89l9.12,24.19h30.24L430.18,0h0ZM401.13,74.47l15.24-40.41,15.23,40.41h-30.47ZM80.08,0h27.71v125.74h-27.71v-49H27.71v49H0V0h27.71v49.02h52.37V0h0ZM177.95,62.88L240.83,0h-37.9l-48.79,48.97V0h-27.71v125.74h27.71v-48.96l48.79,48.96h37.9l-62.88-62.86h0Z"/>
+        </g>
+        <polygon class="cls-3" points="296.7 .01 258.8 .01 321.68 62.87 258.8 125.75 296.7 125.75 359.35 62.87 296.7 .01 296.7 .01"/>
+      </g>
+    </g>
+  </g>
+</svg>
