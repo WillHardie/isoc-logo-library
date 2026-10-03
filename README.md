@@ -7,3 +7,5 @@ Structure: logos/ holds square PNG marks that sit clean on white. manifest.csv m
 The repository also carries two non-logo asset folders, outside manifest.csv. badges/ holds the accreditation badge marks (BAC, CPD, KHDA, Pearson) and the composed badge strip used by the ISOC document shell. certificates/specimen-certificate.png (566 x 396) is the specimen certificate image referenced by the document assembly shell v4.3 certification section and the proposal-logos skill. Do not treat these as logo gaps and do not overwrite them.
 
 Destination: GitHub repo isoc-logo-library, read by the proposal-logos skill via raw.githubusercontent.com. Additions go through the skill, which writes new square white-safe marks and updates the manifest.
+
+report-examples/ holds report example page images for the proposal typesetter's report images row, outside manifest.csv. Coaching (3 October 2026): four specimen pages, feedback report cover and page and management advisory report cover and page, built on the document shell by "coaching report specimens v1.py" in isoc-working/isoc-proposal-process/typesetter. Names and scores are placeholders.
